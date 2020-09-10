@@ -1,0 +1,63 @@
+{
+  "name": "Ethercraft Items",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": [
+    "game items"
+  ],
+  "tags": {
+    "consumable": {
+      "name": "Consumable",
+      "description": "These items are destroyed after consumption."
+    },
+    "armor": {
+      "name": "Armor",
+      "description": "These items can be equipped to offset damage taken."
+    },
+    "slot_chest": {
+        "name": "Slot: Chest",
+        "description": "These items can be equipped to the Chest equipment slot."
+      }
+  },
+  "timestamp": "2020-06-12T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xac21cccde31280257784f02f7201465754e96b0b",
+      "symbol": "CONS036",
+      "name": "Bread",
+      "decimals": 18,
+      "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+      "tags": [
+        "consumable"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xef0b1363d623bddec26790bdc41ea6f298f484ec",
+      "symbol": "CONS041",
+      "name": "Corn",
+      "decimals": 18,
+      "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+      "tags": [
+        "consumable"
+      ]
+    },
+    {
+        "chainId": 1,
+        "address": "0x56021b1b327ebe1eed2182a74d5f6a9a04eb2c73",
+        "symbol": "CHST024",
+        "name": "Leather Doublet",
+        "decimals": 18,
+        "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+        "tags": [
+          "armor",
+          "slot_chest"
+        ]
+      }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
