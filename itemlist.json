@@ -13,7 +13,7 @@
       "name": "Armor",
       "description": "These items can be equipped to offset damage taken."
     },
-    "slot_chest": {
+    "slotChest": {
         "name": "Slot: Chest",
         "description": "These items can be equipped to the Chest equipment slot."
       }
@@ -51,7 +51,7 @@
         "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
         "tags": [
           "armor",
-          "slot_chest"
+          "slotChest"
         ]
       }
   ],
